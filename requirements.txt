@@ -1,0 +1,14 @@
+PyQt5
+PyQtWebEngine
+orange3==3.25
+scikit-learn
+pandas
+pickle5
+nltk
+torch
+transformers
+jupyter
+numpy
+pillow
+pyparsing
+lime
